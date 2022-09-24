@@ -20,3 +20,7 @@ python -m notebook
 Open `training.ipynb` and hit `Run All` to train the model
 
 Open `testing.ipynb` and hit `Run All` to test the model
+
+
+## Update
+Rice dataset has been added to `development` branch
