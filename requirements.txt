@@ -1,3 +1,0 @@
-pip install notebook
-pip install tensorflow
-pip install matplotlib
